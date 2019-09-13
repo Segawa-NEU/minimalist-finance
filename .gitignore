@@ -1,3 +1,8 @@
+# Docker related:
+docker-compose.yml
+dist
+:wq
+
 # Logs
 logs
 *.log
